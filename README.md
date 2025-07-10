@@ -19,4 +19,35 @@
 - 🎨 Clean, responsive, and user-friendly design
 
 ## 📂 Folder Structure
+lib/
+├── Models/
+│ └── Cards_Details.dart
+├── Pages/
+│ ├── Homepage.dart
+│ ├── Splash.dart
+│ ├── Details_Category.dart
+│ └── Detials.dart
+├── Widgets/
+│ ├── Custome_AppBar.dart
+│ ├── Product_item.dart
+│ ├── SortFilterBar.dart
+│ └── animation_line.dart
+├── main.dart
+
+
+## 🛠️ Dependencies
+
+- `flutter`
+- `google_fonts`
+- `svg_flutter`
+- `gap`
+- `video_player`
+- `cupertino_icons`
+
+## 📸 Screenshots
+
+
+
+
+
 
