@@ -13,7 +13,7 @@ class Runway extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        scaffoldBackgroundColor: Colors.white,
+   //     scaffoldBackgroundColor: Colors.white,
       ),
       home: Splash(),
     );
